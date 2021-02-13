@@ -1,8 +1,9 @@
 ### Welcome to my porfolio 👋
+-----------------------------
 
 
 ![](design.png)
-Here are some ideas to get you started:
+let  get start:
 
 - 🔭 I’m currently working on a website to manage blog
 - 🌱 I’m currently learning c#
