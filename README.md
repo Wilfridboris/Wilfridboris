@@ -1,7 +1,7 @@
 ### Welcome to my porfolio 👋
 
 
-
+![](design.png)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a website to manage blog
