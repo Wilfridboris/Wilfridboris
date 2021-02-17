@@ -1,8 +1,8 @@
 ### Welcome to my porfolio 👋
 -----------------------------
-sofware developer passionate about system design, user experience and SEO(Search Engine Optimization)
+full stack  developer passionate about system design, user experience and SEO(Search Engine Optimization)
 currentling building a full project for blog management
-last demo project check it out :[africamusicwebsite](https://africamusic.herokuapp.com/) is free host sorry for the long loading
+last demo project check it out :[AfricaMusicWebsite](https://africamusic.herokuapp.com/) is a free hosting  sorry for the long loading
 
 ![](design.png)
 let  get start:
