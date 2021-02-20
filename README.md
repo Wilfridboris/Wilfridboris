@@ -5,13 +5,13 @@ currentling building a full project for blog management
 
 ![](design.png)
 
-## system design
+## System design
 ---------------------
 Building architecture systems for company needs ,front-end performance
                     and search engine improvement,creation of systems that are user friendly and focused
 
 
-## web accessibility
+## Web accessibility
 ---------------------
 Adding tools and technologies designed to improve the user experience
                     that include Visual, mobility, auditory and cognotive 
