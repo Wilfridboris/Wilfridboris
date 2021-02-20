@@ -4,14 +4,21 @@ full stack  developer passionate about system design, user experience and SEO(Se
 currentling building a full project for blog management
 
 ![](design.png)
-let  get start:
 
-- 🔭 I’m currently working on a website to manage blogs
-- 🌱 I’m currently learning c#
-- 👯 I’m looking to collaborate on my site
-- 🤔 I’m looking for help with Unity
-- 💬 Ask me about Anything
-- 📫 How to reach me boriskwayep35@yahoo.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i am half Finish
+## system design
+---------------------
+Building architecture systems for company needs ,front-end performance
+                    and search engine improvement,creation of systems that are user friendly and focused
 
+
+## web accessibility
+---------------------
+Adding tools and technologies designed to improve the user experience
+                    that include Visual, mobility, auditory and cognotive 
+
+
+## Serveless
+---------------------
+
+Focus on  integrate microservice to  web applications in infrastructure such as azure and aws,
+                    for  performance, productivity and scalability.
