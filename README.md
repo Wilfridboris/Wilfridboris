@@ -4,6 +4,7 @@ full stack  developer passionate about system design, user experience and SEO(Se
 currentling building a full project for blog management
 
 :rocket: FRONT END **HTML,CSS,JAVASCRIPT** **REACT.js, VUE.js**
+
 :notebook: BACKEND *MYSQL* *MONGODB* *NODE* *PHP*
 
 ![](design.png)
