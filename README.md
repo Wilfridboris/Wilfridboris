@@ -1,6 +1,6 @@
 ### Welcome to my porfolio 👋
 -----------------------------
- Full Stack  developer passionate about system design, user experience and SEO(Search Engine Optimization).
+I am a passionate software engineer with a strong background in computer science and extensive experience in developing robust and efficient software solutions..
 
 :rocket: FRONT END **HTML ,CSS, JAVASCRIPT** **REACT.js, VUE.js**
 
