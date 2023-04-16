@@ -10,18 +10,15 @@ I am a passionate software engineer with a strong background in computer science
 
 ## System design
 ---------------------
-Building architecture systems for company needs ,front-end performance
-                    and search engine improvement,creation of systems that are user friendly and focused
+I have experience designing and implementing various system architectures, including microservices, event-driven architectures, and distributed systems.
 
 
 ## Web accessibility
 ---------------------
-Adding tools and technologies designed to improve the user experience
-                    that include Visual, mobility, auditory and cognotive 
+I believe in the importance of web accessibility and strive to create applications and websites that are inclusive and accessible to all users, including those with disabilities.
 
 
 ## Serveless
 ---------------------
 
-Focus on  integrate microservice to  web applications in infrastructure such as azure and aws,
-                    for  performance, productivity and scalability.
+I have extensive experience in building serverless applications that leverage the power of cloud computing platforms such as AWS Lambda, Google Cloud Functions, and Azure Functions
