@@ -2,9 +2,9 @@
 -----------------------------
 I am a passionate software engineer with a strong background in computer science and extensive experience in developing robust and efficient software solutions..
 
-:rocket: FRONT END **HTML ,CSS, JAVASCRIPT** **REACT.js, VUE.js**
+:rocket: FRONT END **HTML ,CSS, JAVASCRIPT** **REACT.js, NEXT.js**
 
-:notebook: BACKEND **MYSQL**,  **MONGODB**,  **NODE** , **PHP**,**DJANGO**
+:notebook: BACKEND **PGSQL**,  **MONGODB**,  **NODE** , **PHP**,**DJANGO**
 
 ![](design.png)
 
