@@ -4,7 +4,7 @@
 
 :rocket: FRONT END **HTML ,CSS, JAVASCRIPT** **REACT.js, VUE.js**
 
-:notebook: BACKEND **MYSQL**,  **MONGODB**,  **NODE** , **PHP**
+:notebook: BACKEND **MYSQL**,  **MONGODB**,  **NODE** , **PHP**,**DJANGO**
 
 ![](design.png)
 
