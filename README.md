@@ -1,7 +1,6 @@
 ### Welcome to my porfolio 👋
 -----------------------------
- Full Stack  developer passionate about system design, user experience and SEO(Search Engine Optimization)
- currentling building a full project for blog management
+ Full Stack  developer passionate about system design, user experience and SEO(Search Engine Optimization).
 
 :rocket: FRONT END **HTML ,CSS, JAVASCRIPT** **REACT.js, VUE.js**
 
