@@ -1,24 +1,55 @@
-### Welcome to my porfolio 👋
------------------------------
-I am a passionate software engineer with a strong background in computer science and extensive experience in developing robust and efficient software solutions..
+# My Portfolio 🚀
 
-:rocket: FRONT END **HTML ,CSS, JAVASCRIPT** **REACT.js, NEXT.js**
+Welcome to my developer portfolio! Here you'll find a showcase of my skills as a developer and SaaS solo entrepreneur, along with details about the SaaS applications I've created and the businesses I've built.
 
-:notebook: BACKEND **PGSQL**,  **MONGODB**,  **NODE** , **PHP**,**DJANGO**
+## 📋 My Lists
 
-![](design.png)
+- [Introduction](#introduction)
+- [Skills](#skills)
+- [SaaS Applications](#saas-applications)
+- [Business Ventures](#business-ventures)
+- [Contact Information](#contact-information)
 
-## System design
----------------------
-I have experience designing and implementing various system architectures, including microservices, event-driven architectures, and distributed systems.
+## 🌟 Introduction
+
+I'm Boris Kwayep, a passionate Full stack developer and solo entrepreneur dedicated to creating innovative solutions that make people's lives better. With the ability of solving complex problems and determinate to building scalable SaaS applications, I began my journey to turn my ideas into reality.
+
+## 💼 Skills
+
+As a Full stack developer, I possess expertise in the following areas:
+
+- **Programming Languages**: Python, Javascript, etc.
+- **Web Development**: React, Django, etc.
+- **Database Management**: PostgreSQL, MongoDB, SQL server, etc
+- **Cloud Technologies**:  Azure, Google Cloud
+- **Agile Methodologies**: Experience with Agile practices such as Scrum, Kanban, etc.
+
+## 🖥️ SaaS Applications
+
+### Prisca
+
+- **Description**: A simple crm application
+- **Key Features**:
+  - [F1]
+  - [F2]
+  - [F3]
+- **Technologies Used**: Node,React,PostgreSQL,Google cloud
+- **Demo**: coming soon...
 
 
-## Web accessibility
----------------------
-I believe in the importance of web accessibility and strive to create applications and websites that are inclusive and accessible to all users, including those with disabilities.
+## 🚀 Business Ventures
 
+### Pauze
 
-## Serveless
----------------------
+- **Description**: Clothing brand, Poadcasting and multimedia production
+- **Achievements**:
+  - [A1]
+  - [A2]
+  - [A3]
 
-I have extensive experience in building serverless applications that leverage the power of cloud computing platforms such as AWS Lambda, Google Cloud Functions, and Azure Functions
+## 📞 Contact Information
+
+- **Email**: boriskwayep35@yahoo.com
+- **LinkedIn**: [My LinkedIn profile](https://www.linkedin.com/in/boris-kwayep-1218581a3/)
+- **GitHub**: [MY GitHub profile](https://github.com/Wilfridboris)
+- **Personal Website/Blog**: in building..
