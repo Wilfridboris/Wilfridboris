@@ -19,7 +19,7 @@ I'm Boris Kwayep, a passionate Full stack developer and solo entrepreneur dedica
 As a Full stack developer, I possess expertise in the following areas:
 
 - **Programming Languages**: Python, Javascript, etc.
-- **Web Development**: React, Django, etc.
+- **Web Development**: React, Django, ASP.NET etc.
 - **Database Management**: PostgreSQL, MongoDB, SQL server, etc
 - **Cloud Technologies**:  Azure, Google Cloud
 - **Agile Methodologies**: Experience with Agile practices such as Scrum, Kanban, etc.
@@ -28,7 +28,7 @@ As a Full stack developer, I possess expertise in the following areas:
 
 ### Prisca
 
-- **Description**: A simple crm application
+- **Description**: A simple salesforce crm alternative application
 - **Key Features**:
   - [F1]
   - [F2]
